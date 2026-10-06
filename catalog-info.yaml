@@ -6,5 +6,6 @@ metadata:
 spec:
   targets:
     - ./system.yaml
+    - ./system-secured.yaml
     - ./resources.yaml
     - ./llm-inference-server/resource.yaml

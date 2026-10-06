@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: parasol-insurance-secured
+  description: Parasol Insurance claims management platform with secured supply chain
+spec:
+  owner: group:default/users
